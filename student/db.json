@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "name": "Sara Khan",
+      "email": "sarakhan@example.com",
+      "course": "Business Administrations",
+      "phone": "0311123456",
+      "id": "2"
+    },
+    {
+      "name": "Usman Malik",
+      "email": "usmanmalik@example.com",
+      "course": "Electrical Engineering",
+      "phone": "0321123456",
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "name": "hasnain",
+      "email": "hasnain@gmail.com",
+      "course": "urdu",
+      "phone": "2342342342"
+    },
+    {
+      "id": "6",
+      "name": "ahmedsatti",
+      "email": "ahmed123@gmail.com",
+      "course": "pakstudies",
+      "phone": "1234567891"
+    },
+    {
+      "id": "7",
+      "name": "hassan",
+      "email": "obaidxatti744@gmail.com",
+      "course": "math",
+      "phone": "0331866229"
+    },
+    {
+      "name": "hassan",
+      "email": "ahmed123@gmail.com",
+      "course": "math",
+      "phone": "0331866221",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "name": "obaidsatti",
+      "email": "obaidsatti123@gmail.com",
+      "course": "english",
+      "phone": "0318153697"
+    },
+    {
+      "id": "10",
+      "name": "ali hassan",
+      "email": "alihasan1@gmail.com",
+      "course": "python",
+      "phone": "9876543211"
+    }
+  ]
+}
